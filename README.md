@@ -24,7 +24,6 @@ Here are some ideas to get you started:
   <br/>
     <a href="https://github.com/sadovnic13"><img alt="sadovnic13`s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadovnic13&langs_count=10&layout=donut-vertical&theme=dark" /></a>
 <br/>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <summary>🛠 Tech Stack</summary>
 <br/>
 ![C#](https://img.shields.io/badge/C#%2302569B.svg?style=for-the-badge&logo=C#&logoColor=white)&nbsp;
