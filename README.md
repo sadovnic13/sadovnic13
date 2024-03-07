@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <br/>
     <a href="https://github.com/sadovnic13"><img alt="sadovnic13`s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadovnic13&langs_count=10&layout=compact&theme=dark" /></a>
 <br/>
-🛠 Tech Stack
+<summary>🛠 Tech Stack</summary>
 <br/>
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
