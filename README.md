@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 📊 GitHub Stats
   <br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadovnic13&theme=dark)
+    <a href="https://github.com/maverick-wolf"><img alt="Swarnab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sadovnic13&theme=dark" /></a>
 <br/>
 🛠 Tech Stack
 <br/>
