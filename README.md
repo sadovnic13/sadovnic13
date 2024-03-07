@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <br/>
     <a href="https://github.com/sadovnic13"><img alt="German`s stats" src="https://github-readme-stats.vercel.app/api?username=sadovnic13&theme=dark" /></a>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sadovnic13`s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadovnic13&langs_count=10&layout=compact&theme=dark" /></a>
+    <a href="https://github.com/sadovnic13"><img alt="sadovnic13`s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadovnic13&langs_count=10&layout=compact&theme=dark" /></a>
 <br/>
 🛠 Tech Stack
 <br/>
