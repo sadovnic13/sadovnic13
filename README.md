@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br/>
 <summary>🛠 Tech Stack</summary>
 <br/>
-
+![C#](https://img.shields.io/badge/C#%2302569B.svg?style=for-the-badge&logo=C#&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
