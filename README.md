@@ -23,10 +23,6 @@ Here are some ideas to get you started:
     <a href="https://github.com/sadovnic13"><img alt="German`s stats" src="https://github-readme-stats.vercel.app/api?username=sadovnic13&theme=dark" /></a>
   <br/>
     <a href="https://github.com/sadovnic13"><img alt="sadovnic13`s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadovnic13&langs_count=10&layout=donut-vertical&theme=dark" /></a>
-<br/>
-<summary>🛠 Tech Stack</summary>
-<br/>
-![Static Badge](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=Dart)
 
 
 
