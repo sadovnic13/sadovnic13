@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br/>
 <summary>🛠 Tech Stack</summary>
 <br/>
-![Static Badge]<img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter" />
-![Static Badge]<img src="https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=Dart" />
+![Static Badge](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=Dart)
+
 
 
